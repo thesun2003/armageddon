@@ -1,0 +1,10 @@
+A The goal of the GAME is to save the planet   A
+R MARS from a meteorite, which is approaching  R
+M it with the great speed. YOU need to collect M
+A in parts the map of the area and find a      A
+G secret military base. There you will find a  G
+E laser gun and, possibly, save MARS by        E
+D destroying a meteorite using this laser gun. D
+D                                              D
+O Author: Vladimir Semenov, 904v.              O
+N                                         1999 N
